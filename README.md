@@ -1,2 +1,3 @@
 # PreCourse-Henry
-Repositorio de prueba
+Federico Douglas Price  
+Crear proyecto y clonarlo
